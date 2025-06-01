@@ -1,5 +1,6 @@
 # ukrainian-bot-numbers-database
-Not a database per se, but a file that you could throw to llm
+
+Not a database yet per se, throw ##History to LLM
 
 ## History
 
